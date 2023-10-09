@@ -61,14 +61,10 @@ Here's a brief overview of the snippets available:
   - [Primitive Types](2.PrimitiveTypes.ts)
   - [Arrays](4.Arrays.ts)
   - [Tuples](5.Tuples.ts)
-  - ... (continue for other files)
 
 - **Advanced Concepts**: Dive deep into TypeScript's powerful features.
   - [Generics](12.Generics.ts)
   - [Mapped Types](59.MappedTypes.ts)
-  - ... (continue for other files)
-
-... (continue listing other categories and snippets)
 
 ## 🤝 Contributing
 
